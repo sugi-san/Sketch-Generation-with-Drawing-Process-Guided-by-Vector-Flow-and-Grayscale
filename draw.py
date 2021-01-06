@@ -23,8 +23,8 @@ def draw(file_name, n, period):
     output_path = './output' 
 
     np.random.seed(1)
-    n =  10                 # Quantization order
-    period = 5              # line period
+    # n =  10                 # Quantization order
+    # period = 5              # line period
     direction =  10         # num of dir
     Freq = 100              # save every（freq) lines drawn
     deepen =  1             # for edge
